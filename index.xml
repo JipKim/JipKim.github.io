@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PSE Lab.</title>
-    <link>https://examplesite.org/</link>
+    <link>https://egolab.kentech.ac.kr/</link>
     <description>Recent content on PSE Lab.</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://egolab.kentech.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://examplesite.org/talk/</link>
+      <link>https://egolab.kentech.ac.kr/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/talk/</guid>
+      <guid>https://egolab.kentech.ac.kr/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://examplesite.org/publication/</link>
+      <link>https://egolab.kentech.ac.kr/publication/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/publication/</guid>
+      <guid>https://egolab.kentech.ac.kr/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://examplesite.org/courses/</link>
+      <link>https://egolab.kentech.ac.kr/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://examplesite.org/courses/</guid>
+      <guid>https://egolab.kentech.ac.kr/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://examplesite.org/post/</link>
+      <link>https://egolab.kentech.ac.kr/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/post/</guid>
+      <guid>https://egolab.kentech.ac.kr/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://examplesite.org/slides/</link>
+      <link>https://egolab.kentech.ac.kr/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/slides/</guid>
+      <guid>https://egolab.kentech.ac.kr/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://examplesite.org/project/</link>
+      <link>https://egolab.kentech.ac.kr/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/</guid>
+      <guid>https://egolab.kentech.ac.kr/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://examplesite.org/pub_new/</link>
+      <link>https://egolab.kentech.ac.kr/pub_new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/pub_new/</guid>
+      <guid>https://egolab.kentech.ac.kr/pub_new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://examplesite.org/resources/</link>
+      <link>https://egolab.kentech.ac.kr/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/resources/</guid>
+      <guid>https://egolab.kentech.ac.kr/resources/</guid>
       <description></description>
     </item>
     
