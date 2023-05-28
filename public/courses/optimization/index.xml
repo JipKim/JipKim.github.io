@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Optimization on PSE Lab.</title>
-    <link>https://egolab.kentech.ac.kr/courses/optimization/</link>
+    <link>https://jipkim.github.io/courses/optimization/</link>
     <description>Recent content in Optimization on PSE Lab.</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://egolab.kentech.ac.kr/courses/optimization/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jipkim.github.io/courses/optimization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LP</title>
-      <link>https://egolab.kentech.ac.kr/courses/optimization/lp/</link>
+      <link>https://jipkim.github.io/courses/optimization/lp/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/courses/optimization/lp/</guid>
+      <guid>https://jipkim.github.io/courses/optimization/lp/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academia:&lt;/p&gt;
 &lt;h2 id=&#34;basic-formulation&#34;&gt;Basic formulation&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>SOCP</title>
-      <link>https://egolab.kentech.ac.kr/courses/optimization/socp/</link>
+      <link>https://jipkim.github.io/courses/optimization/socp/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/courses/optimization/socp/</guid>
+      <guid>https://jipkim.github.io/courses/optimization/socp/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with academia:&lt;/p&gt;
 &lt;h2 id=&#34;basic-formulation&#34;&gt;Basic formulation&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -163,10 +163,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Chap1</title>
-      <link>https://egolab.kentech.ac.kr/courses/optimization/chap1/</link>
+      <link>https://jipkim.github.io/courses/optimization/chap1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/courses/optimization/chap1/</guid>
+      <guid>https://jipkim.github.io/courses/optimization/chap1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academia:&lt;/p&gt;
 &lt;h2 id=&#34;basic-formulation&#34;&gt;Basic formulation&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -185,10 +185,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>Chap2</title>
-      <link>https://egolab.kentech.ac.kr/courses/optimization/chap2/</link>
+      <link>https://jipkim.github.io/courses/optimization/chap2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/courses/optimization/chap2/</guid>
+      <guid>https://jipkim.github.io/courses/optimization/chap2/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academia:&lt;/p&gt;
 &lt;h2 id=&#34;basic-formulation&#34;&gt;Basic formulation&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;

@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PSE Lab.</title>
-    <link>https://egolab.kentech.ac.kr/</link>
+    <link>https://jipkim.github.io/</link>
     <description>Recent content on PSE Lab.</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://egolab.kentech.ac.kr/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jipkim.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://egolab.kentech.ac.kr/talk/</link>
+      <link>https://jipkim.github.io/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/talk/</guid>
+      <guid>https://jipkim.github.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://egolab.kentech.ac.kr/publication/</link>
+      <link>https://jipkim.github.io/publication/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/publication/</guid>
+      <guid>https://jipkim.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://egolab.kentech.ac.kr/courses/</link>
+      <link>https://jipkim.github.io/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/courses/</guid>
+      <guid>https://jipkim.github.io/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://egolab.kentech.ac.kr/post/</link>
+      <link>https://jipkim.github.io/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/post/</guid>
+      <guid>https://jipkim.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://egolab.kentech.ac.kr/slides/</link>
+      <link>https://jipkim.github.io/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/slides/</guid>
+      <guid>https://jipkim.github.io/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://egolab.kentech.ac.kr/project/</link>
+      <link>https://jipkim.github.io/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/project/</guid>
+      <guid>https://jipkim.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://egolab.kentech.ac.kr/pub_new/</link>
+      <link>https://jipkim.github.io/pub_new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/pub_new/</guid>
+      <guid>https://jipkim.github.io/pub_new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://egolab.kentech.ac.kr/resources/</link>
+      <link>https://jipkim.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egolab.kentech.ac.kr/resources/</guid>
+      <guid>https://jipkim.github.io/resources/</guid>
       <description></description>
     </item>
     
