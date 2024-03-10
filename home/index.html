@@ -499,12 +499,39 @@ Our research tackles the challenges of transitioning to low-carbon power systems
     <p>“Empowering the transition to sustainable power system through advanced modeling and algorithmic innovation”</p>
 </div>
 <hr style="border: none; border-top: 1px solid #d9d9d9;">
-<div style="display: flex; justify-content: space-between; width: 100%; margin-top: 0;">
-  <img src="/img/PVfarm-unsplash.jpeg" style="width: 24%; margin-right: 1.33%; margin-top: 0;">
-  <img src="/img/T-towers.jpeg" style="width: 24%; margin-right: 1.33%; margin-top: 0;">
-  <img src="/img/WT.jpeg" style="width: 24%; margin-right: 1.33%; margin-top: 0;">
-  <img src="/img/Mathball.jpg" style="width: 24%;">
+<div class="image-container">
+  <img src="/img/PVfarm-unsplash.jpeg">
+  <img src="/img/T-towers.jpeg">
+  <img src="/img/WT.jpeg">
+  <img src="/img/Mathball.jpg">
 </div>
+<style>
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 0;
+  }
+  .image-container img {
+    width: 24%;
+    margin-right: 1.33%;
+    margin-top: 0;
+    margin-bottom: 2%; /* add this line */
+  }
+  .image-container img:last-child {
+    margin-right: 0;
+  }
+  @media (max-width: 599px) { /* small devices */
+    .image-container img {
+      width: 48%;
+      margin-right: 2%;
+    }
+    .image-container img:nth-child(2n) {
+      margin-right: 0;
+    }
+  }
+</style>
 <p>Welcome to <span style="color:#323d55;"><strong><em>Electric Grid Optimization (EGO) Lab</em></strong></span>!</p>
 <p>We&rsquo;re dedicated to advancing the transition to low-carbon power systems and enhancing energy market design. Through mathematical modeling and advanced algorithms, we aim to optimize pathways to zero-emission power systems while addressing techno-economic constraints and uncertainties.</p>
 <p>Our research tackles the challenges of transitioning to low-carbon power systems, including the shift from large-scale to small-scale renewable generation and the need for efficient market incentives. We&rsquo;re focused on ensuring reliability, securing stability resources, and balancing the benefits of distributed energy resources.</p>

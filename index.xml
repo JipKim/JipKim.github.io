@@ -38,12 +38,39 @@
     &lt;p&gt;“Empowering the transition to sustainable power system through advanced modeling and algorithmic innovation”&lt;/p&gt;
 &lt;/div&gt;
 &lt;hr style=&#34;border: none; border-top: 1px solid #d9d9d9;&#34;&gt;
-&lt;div style=&#34;display: flex; justify-content: space-between; width: 100%; margin-top: 0;&#34;&gt;
-  &lt;img src=&#34;https://jipkim.github.io/img/PVfarm-unsplash.jpeg&#34; style=&#34;width: 24%; margin-right: 1.33%; margin-top: 0;&#34;&gt;
-  &lt;img src=&#34;https://jipkim.github.io/img/T-towers.jpeg&#34; style=&#34;width: 24%; margin-right: 1.33%; margin-top: 0;&#34;&gt;
-  &lt;img src=&#34;https://jipkim.github.io/img/WT.jpeg&#34; style=&#34;width: 24%; margin-right: 1.33%; margin-top: 0;&#34;&gt;
-  &lt;img src=&#34;https://jipkim.github.io/img/Mathball.jpg&#34; style=&#34;width: 24%;&#34;&gt;
+&lt;div class=&#34;image-container&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/PVfarm-unsplash.jpeg&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/T-towers.jpeg&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/WT.jpeg&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/Mathball.jpg&#34;&gt;
 &lt;/div&gt;
+&lt;style&gt;
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 0;
+  }
+  .image-container img {
+    width: 24%;
+    margin-right: 1.33%;
+    margin-top: 0;
+    margin-bottom: 2%; /* add this line */
+  }
+  .image-container img:last-child {
+    margin-right: 0;
+  }
+  @media (max-width: 599px) { /* small devices */
+    .image-container img {
+      width: 48%;
+      margin-right: 2%;
+    }
+    .image-container img:nth-child(2n) {
+      margin-right: 0;
+    }
+  }
+&lt;/style&gt;
 &lt;p&gt;Welcome to &lt;span style=&#34;color:#323d55;&#34;&gt;&lt;strong&gt;&lt;em&gt;Electric Grid Optimization (EGO) Lab&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;!&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;re dedicated to advancing the transition to low-carbon power systems and enhancing energy market design. Through mathematical modeling and advanced algorithms, we aim to optimize pathways to zero-emission power systems while addressing techno-economic constraints and uncertainties.&lt;/p&gt;
 &lt;p&gt;Our research tackles the challenges of transitioning to low-carbon power systems, including the shift from large-scale to small-scale renewable generation and the need for efficient market incentives. We&amp;rsquo;re focused on ensuring reliability, securing stability resources, and balancing the benefits of distributed energy resources.&lt;/p&gt;
