@@ -39,19 +39,20 @@
 &lt;/div&gt;
 &lt;hr style=&#34;border: none; border-top: 1px solid #d9d9d9;&#34;&gt;
 &lt;div style=&#34;display: flex; justify-content: space-between; width: 100%; margin-top: 0;&#34;&gt;
-  &lt;img src=&#34;https://jipkim.github.io/img/PVfarm-unsplash.jpeg&#34; style=&#34;width: 25%; margin-right: 10px; margin-top: 0;&#34;&gt;
-  &lt;img src=&#34;https://jipkim.github.io/img/T-towers.jpeg&#34; style=&#34;width: 25%; margin-right: 10px; margin-top: 0;&#34;&gt;
-  &lt;img src=&#34;https://jipkim.github.io/img/WT.jpeg&#34; style=&#34;width: 25%; margin-right: 10px; margin-top: 0;&#34;&gt;
-  &lt;img src=&#34;https://jipkim.github.io/img/Mathball.jpg&#34; style=&#34;width: 25%;&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/PVfarm-unsplash.jpeg&#34; style=&#34;width: 24%; margin-right: 1.33%; margin-top: 0;&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/T-towers.jpeg&#34; style=&#34;width: 24%; margin-right: 1.33%; margin-top: 0;&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/WT.jpeg&#34; style=&#34;width: 24%; margin-right: 1.33%; margin-top: 0;&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/Mathball.jpg&#34; style=&#34;width: 24%;&#34;&gt;
 &lt;/div&gt;
-At Electric Grid Optimization (EGO) Lab., we&#39;re dedicated to advancing the transition to low-carbon power systems and enhancing energy market design. Through mathematical modeling and advanced algorithms, we aim to optimize pathways to zero-emission power systems while addressing techno-economic constraints and uncertainties. 
+&lt;p&gt;Welcome to &lt;span style=&#34;color:#323d55;&#34;&gt;&lt;strong&gt;&lt;em&gt;Electric Grid Optimization (EGO) Lab&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;!&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re dedicated to advancing the transition to low-carbon power systems and enhancing energy market design. Through mathematical modeling and advanced algorithms, we aim to optimize pathways to zero-emission power systems while addressing techno-economic constraints and uncertainties.&lt;/p&gt;
 &lt;p&gt;Our research tackles the challenges of transitioning to low-carbon power systems, including the shift from large-scale to small-scale renewable generation and the need for efficient market incentives. We&amp;rsquo;re focused on ensuring reliability, securing stability resources, and balancing the benefits of distributed energy resources.&lt;/p&gt;
 &lt;ul style=&#34;list-style-type: square;&#34;&gt;
-  &lt;li&gt;&lt;strong&gt;Decentralized Power System Planning:&lt;/strong&gt; Develop a mathematical planning tool to decide optimal decentralized configurations for power systems and construct local markets.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Physics-aware Operation:&lt;/strong&gt; Design a physics-aware operation framework suitable for DERs and investigate resource adequacy under the new operational principles.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Decision-making Tools for Energy System Planners:&lt;/strong&gt; Develop models that enable regulatory bodies to analyze the power system&#39;s unique physical and economic features in their jurisdiction and make optimal decisions based on data-informed analyses.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Interoperable Multi-Energy Systems:&lt;/strong&gt; Create a co-optimization tool to take advantage of how multi-domain energy systems are connected and determine how much they help each other by using profitability, stability, and interdependency indices.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Computations and Algorithms:&lt;/strong&gt; Develop algorithmic techniques and data-driven tools to make models tractable and adopt parallel computing via decomposition algorithms.&lt;/li&gt;
+  &lt;li&gt;&lt;span style=&#34;color:#323d55;&#34;&gt;&lt;strong&gt;Decentralized Power System Planning:&lt;/strong&gt;&lt;/span&gt; Develop a mathematical planning tool to decide optimal decentralized configurations for power systems and construct local markets.&lt;/li&gt;
+  &lt;li&gt;&lt;span style=&#34;color:#323d55;&#34;&gt;&lt;strong&gt;Physics-aware Operation:&lt;/strong&gt;&lt;/span&gt; Design a physics-aware operation framework suitable for DERs and investigate resource adequacy under the new operational principles.&lt;/li&gt;
+  &lt;li&gt;&lt;span style=&#34;color:#323d55;&#34;&gt;&lt;strong&gt;Decision-making Tools for Energy System Planners:&lt;/strong&gt;&lt;/span&gt; Develop models that enable regulatory bodies to analyze the power system&#39;s unique physical and economic features in their jurisdiction and make optimal decisions based on data-informed analyses.&lt;/li&gt;
+  &lt;li&gt;&lt;span style=&#34;color:#323d55;&#34;&gt;&lt;strong&gt;Interoperable Multi-Energy Systems:&lt;/strong&gt;&lt;/span&gt; Create a co-optimization tool to take advantage of how multi-domain energy systems are connected and determine how much they help each other by using profitability, stability, and interdependency indices.&lt;/li&gt;
+  &lt;li&gt;&lt;span style=&#34;color:#323d55;&#34;&gt;&lt;strong&gt;Computations and Algorithms:&lt;/strong&gt;&lt;/span&gt; Develop algorithmic techniques and data-driven tools to make models tractable and adopt parallel computing via decomposition algorithms.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Our mission is to achieve efficient and reliable low-carbon power systems. Through interdisciplinary research, we&amp;rsquo;re paving the way toward this future.
 Learn more&lt;/p&gt;
