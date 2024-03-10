@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PSE Lab.</title>
+    <title>EGO Lab.</title>
     <link>https://jipkim.github.io/</link>
-    <description>Recent content on PSE Lab.</description>
+    <description>Recent content on EGO Lab.</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
@@ -19,6 +19,53 @@
       
       <guid>https://jipkim.github.io/talk/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jipkim.github.io/home/</link>
+      <pubDate>Sat, 16 Apr 2022 16:55:23 -0400</pubDate>
+      
+      <guid>https://jipkim.github.io/home/</guid>
+      <description>&lt;!-- Put the following text in a colored box --&gt;
+&lt;!-- &lt;div style=&#34;background-color: #f0f0f0; padding: 10px; color: #323d55; font-weight: bold; font-size: larger; text-align: center; margin-top: 0;&#34;&gt;
+&#34;Empowering the transition to sustainable power system through advanced modeling and algorithmic innovation&#34;
+&lt;/div&gt; --&gt;
+&lt;!-- &lt;blockquote style=&#34;font-style: italic; quotes: &#39;“&#39; &#39;”&#39;;&#34;&gt;
+    &lt;p&gt;“Empowering the transition to sustainable power system through advanced modeling and algorithmic innovation”&lt;/p&gt;
+&lt;/blockquote&gt; --&gt;
+&lt;div style=&#34;background-color: #f0f0f0; padding: 20px; color: #323d55; font-weight: bold; font-style: italic; font-size: larger; text-align: center; margin-top: 0; border-left: 10px solid #323d55;&#34;&gt;
+    &lt;p&gt;“Empowering the transition to sustainable power system through advanced modeling and algorithmic innovation”&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr style=&#34;border: none; border-top: 1px solid #d9d9d9;&#34;&gt;
+&lt;div style=&#34;display: flex; justify-content: space-between; width: 100%; margin-top: 0;&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/PVfarm-unsplash.jpeg&#34; style=&#34;width: 25%; margin-right: 10px; margin-top: 0;&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/T-towers.jpeg&#34; style=&#34;width: 25%; margin-right: 10px; margin-top: 0;&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/WT.jpeg&#34; style=&#34;width: 25%; margin-right: 10px; margin-top: 0;&#34;&gt;
+  &lt;img src=&#34;https://jipkim.github.io/img/Mathball.jpg&#34; style=&#34;width: 25%;&#34;&gt;
+&lt;/div&gt;
+At Electric Grid Optimization (EGO) Lab., we&#39;re dedicated to advancing the transition to low-carbon power systems and enhancing energy market design. Through mathematical modeling and advanced algorithms, we aim to optimize pathways to zero-emission power systems while addressing techno-economic constraints and uncertainties. 
+&lt;p&gt;Our research tackles the challenges of transitioning to low-carbon power systems, including the shift from large-scale to small-scale renewable generation and the need for efficient market incentives. We&amp;rsquo;re focused on ensuring reliability, securing stability resources, and balancing the benefits of distributed energy resources.&lt;/p&gt;
+&lt;ul style=&#34;list-style-type: square;&#34;&gt;
+  &lt;li&gt;&lt;strong&gt;Decentralized Power System Planning:&lt;/strong&gt; Develop a mathematical planning tool to decide optimal decentralized configurations for power systems and construct local markets.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Physics-aware Operation:&lt;/strong&gt; Design a physics-aware operation framework suitable for DERs and investigate resource adequacy under the new operational principles.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Decision-making Tools for Energy System Planners:&lt;/strong&gt; Develop models that enable regulatory bodies to analyze the power system&#39;s unique physical and economic features in their jurisdiction and make optimal decisions based on data-informed analyses.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Interoperable Multi-Energy Systems:&lt;/strong&gt; Create a co-optimization tool to take advantage of how multi-domain energy systems are connected and determine how much they help each other by using profitability, stability, and interdependency indices.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Computations and Algorithms:&lt;/strong&gt; Develop algorithmic techniques and data-driven tools to make models tractable and adopt parallel computing via decomposition algorithms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our mission is to achieve efficient and reliable low-carbon power systems. Through interdisciplinary research, we&amp;rsquo;re paving the way toward this future.
+Learn more&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Keywords:&lt;/em&gt;&lt;/strong&gt;
+&lt;em&gt;Generation &amp;amp; Transmission Expansion Planning, Non-wire Alternatives, LMP, Building EMS, Energy Storage, Stochastic &amp;amp; distributed optimization, Grid Integration&lt;/em&gt;&lt;/p&gt;
+&lt;div style=&#34;display: flex; background-color: #d9d9d9; padding: 10px;&#34;&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+    &lt;iframe width=&#34;100%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/HsypUZhPtjI&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1; margin-left: 10px;&#34;&gt;
+    &lt;iframe width=&#34;100%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/xdVBmi1WNZU&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
